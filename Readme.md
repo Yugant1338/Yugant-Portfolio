@@ -28,10 +28,6 @@ The project is organized as follows:
 - **Interactive Elements:** JavaScript is used to add interactivity, making the user experience more engaging.
 - **Clean UI:** A minimalist design approach to keep the focus on content.
 
-## 📸 Screenshots
-
-*(Add a few screenshots of your portfolio here to give users a quick preview of the website)*
-
 ## 📄 License
 
 This project is open-source and available under the MIT License.
