@@ -40,5 +40,5 @@ This project is open-source and available under the MIT License.
 
 Feel free to reach out to me for any inquiries or collaboration opportunities:
 
-- **Email:** [yugant1338@gmail.com](mailto:yugant.work@gmail.com)
+- **Email:** [Mail](mailto:yugant.work@gmail.com)
 - **LinkedIn:** [Yugant Chaudhury](https://www.linkedin.com/in/yugant-chaudhury-252288248/)
